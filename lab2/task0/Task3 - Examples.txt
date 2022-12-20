@@ -1,0 +1,349 @@
+#> menu_map
+
+Please choose a function:
+0)  Get string
+1)  Print string
+2)  Print hex
+3)  Censor
+4)  Encrypt
+5)  Decrypt
+6)  Quit
+Option : 0
+
+Within bounds
+Hey!
+DONE.
+
+Please choose a function:
+0)  Get string
+1)  Print string
+2)  Print hex
+3)  Censor
+4)  Encrypt
+5)  Decrypt
+6)  Quit
+Option : 1
+
+Within bounds
+H
+e
+y
+!
+.
+DONE
+
+Please choose a function:
+0)  Get string
+1)  Print string
+2)  Print hex
+3)  Censor
+4)  Encrypt
+5)  Decrypt
+6)  Quit
+Option : 2
+
+Within bounds
+48
+65
+79
+21
+.
+DONE.
+
+Please choose a function:
+0)  Get string
+1)  Print string
+2)  Print hex
+3)  Censor
+4)  Encrypt
+5)  Decrypt
+6)  Quit
+Option : 3
+Within bounds
+DONE.
+
+Please choose a function:
+0)  Get string
+1)  Print string
+2)  Print hex
+3)  Censor
+4)  Encrypt
+5)  Decrypt
+6)  Quit
+Option : 1
+
+Within bounds
+H
+e
+y
+.
+.
+DONE.
+
+Please choose a function:
+0)  Get string
+1)  Print string
+2)  Print hex
+3)  Censor
+4)  Encrypt
+5)  Decrypt
+6)  Quit
+Option : 2
+
+Within bounds
+48
+65
+79
+2E
+.
+DONE.
+
+Please choose a function:
+0)  Get string
+1)  Print string
+2)  Print hex
+3)  Censor
+4)  Encrypt
+5)  Decrypt
+6)  Quit
+Option : 4
+Within bounds
+DONE.
+
+Please choose a function:
+0)  Get string
+1)  Print string
+2)  Print hex
+3)  Censor
+4)  Encrypt
+5)  Decrypt
+6)  Quit
+Option : 1
+
+Within bounds
+K
+h
+|
+1
+.
+DONE.
+
+Please choose a function:
+0)  Get string
+1)  Print string
+2)  Print hex
+3)  Censor
+4)  Encrypt
+5)  Decrypt
+6)  Quit
+Option : 2
+
+Within bounds
+4B
+68
+7C
+31
+.
+DONE.
+
+Please choose a function:
+0)  Get string
+1)  Print string
+2)  Print hex
+3)  Censor
+4)  Encrypt
+5)  Decrypt
+6)  Quit
+Option : 5
+Within bounds
+DONE.
+
+Please choose a function:
+0)  Get string
+1)  Print string
+2)  Print hex
+3)  Censor
+4)  Encrypt
+5)  Decrypt
+6)  Quit
+Option : 1
+
+Within bounds
+H
+e
+y
+.
+.
+DONE.
+
+Please choose a function:
+0)  Get string
+1)  Print string
+2)  Print hex
+3)  Censor
+4)  Encrypt
+5)  Decrypt
+6)  Quit
+Option : 2
+
+Within bounds
+48
+65
+79
+2E
+.
+DONE.
+
+Please choose a function:
+0)  Get string
+1)  Print string
+2)  Print hex
+3)  Censor
+4)  Encrypt
+5)  Decrypt
+6)  Quit
+Option : 0
+
+Within bounds
+Lab2
+DONE.
+
+Please choose a function:
+0)  Get string
+1)  Print string
+2)  Print hex
+3)  Censor
+4)  Encrypt
+5)  Decrypt
+6)  Quit
+Option : 1
+
+Within bounds
+L
+a
+b
+2
+.
+DONE.
+
+Please choose a function:
+0)  Get string
+1)  Print string
+2)  Print hex
+3)  Censor
+4)  Encrypt
+5)  Decrypt
+6)  Quit
+Option : 2
+
+Within bounds
+4C
+61
+62
+32
+.
+DONE.
+
+Please choose a function:
+0)  Get string
+1)  Print string
+2)  Print hex
+3)  Censor
+4)  Encrypt
+5)  Decrypt
+6)  Quit
+Option : 3
+Within bounds
+DONE.
+
+Please choose a function:
+0)  Get string
+1)  Print string
+2)  Print hex
+3)  Censor
+4)  Encrypt
+5)  Decrypt
+6)  Quit
+Option : 1
+
+Within bounds
+L
+a
+b
+2
+.
+DONE.
+
+Please choose a function:
+0)  Get string
+1)  Print string
+2)  Print hex
+3)  Censor
+4)  Encrypt
+5)  Decrypt
+6)  Quit
+Option : 2
+
+Within bounds
+4C
+61
+62
+32
+.
+DONE.
+
+Please choose a function:
+0)  Get string
+1)  Print string
+2)  Print hex
+3)  Censor
+4)  Encrypt
+5)  Decrypt
+6)  Quit
+Option : 4
+Within bounds
+DONE.
+
+Please choose a function:
+0)  Get string
+1)  Print string
+2)  Print hex
+3)  Censor
+4)  Encrypt
+5)  Decrypt
+6)  Quit
+Option : 1
+
+Within bounds
+O
+d
+e
+5
+.
+DONE.
+
+Please choose a function:
+0)  Get string
+1)  Print string
+2)  Print hex
+3)  Censor
+4)  Encrypt
+5)  Decrypt
+6)  Quit
+Option : 0
+
+Within bounds
+quit
+DONE.
+
+Please choose a function:
+0)  Get string
+1)  Print string
+2)  Print hex
+3)  Censor
+4)  Encrypt
+5)  Decrypt
+6)  Quit
+Option : 6
+
+Within bounds
