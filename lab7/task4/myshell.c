@@ -13,7 +13,7 @@
 
 
 typedef int pid_t;
-#define MAX 20
+#define MAX 4
 
 char* history[MAX];
 int front = 0;
@@ -32,24 +32,19 @@ int size() {
 void insert(char* dataold) {
     char* data = malloc(strlen(dataold)); 
     strcpy(data, dataold);
-
-   if(!isFull()) {
-	
-      if(rear == MAX-1) {
-         rear = -1;            
-      }       
-
-      history[++rear] = data;
-      itemCount++;
-   }
-   else{
+    if (isFull())
         free(history[MAX-1]);
-        for (int i = 1; i < MAX; i++)
+    for (int i = size(); i > 0; i--)
+    {
+        if (i != MAX)
         {
-            history[i-1] = history[i];
+            history[i] = history[i-1];
         }
-        history[MAX-1] = data;
-   }
+    }
+    history[0] = data;
+    if (MAX > itemCount+1)
+        itemCount ++;
+    
 }
 
 char* removeData() {
@@ -317,9 +312,9 @@ void execute(cmdLine *pCmdLine){
         freeCmdLines(pCmdLine);
     }
     else if (!strcmp("history", command)){
-        for (int i = 0; i < size(); i++)
+        for (int i = size()-1; i >= 0; i--)
         {
-            printf("%d: %s\n",size()-i, history[i]);
+            printf("%d: %s\n",i, history[i]);
         }
     }
     else if (!strcmp("!!", command)){
@@ -329,7 +324,7 @@ void execute(cmdLine *pCmdLine){
     }
     else if (!strncmp("!", command,1)){
         int n = atoi(command+1);
-        if (n > 19 || itemCount <= n)
+        if (n > MAX-1 || itemCount <= n)
         {
             printf("history not long enough for %dth command", n);
         }
